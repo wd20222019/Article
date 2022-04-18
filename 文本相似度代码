@@ -29,3 +29,8 @@ def simlarityCalu(vector1,vector2):
     else:
         simlarity=0
     return simlarity
+
+使用的词向量文件详见
+链接：https://pan.baidu.com/s/1swOcxmngJdlX8jh5NNNSvA 
+提取码：jfy2 
+--来自百度网盘超级会员V4的分享
